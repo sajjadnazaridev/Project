@@ -10,6 +10,16 @@ body{
     position: relative;
 }
 
+input{
+    width: 250px;
+    height: 25px;
+    margin: 30px auto;
+    text-align: center;
+    border: none;
+    border-radius: 25px;
+    background-color: red;
+}
+
 .footer{
     height: 80px;
     width: 100%;
